@@ -30,3 +30,4 @@ if price < BUY_PRICE:
                             to_addrs="sidkulkarnimj@gmail.com",
                             msg=f"Subject:Amazon prize alert!\n\n{message}\n{URL}"
                             u'\u2011'.encode('ascii', 'ignore'))
+
