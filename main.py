@@ -2,8 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import smtplib
 
-my_email = "theanakinskywalker.force@gmail.com"
-password = "anakin@123"
+my_email = "your email"
+password = "your password"
 URL = "https://www.amazon.in/Apple-MacBook-Chip-13-inch-256GB/dp/B08N5VSQNG?ref_=ast_sto_dp&th=1&psc=1"
 
 headers ={
